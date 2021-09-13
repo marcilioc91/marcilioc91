@@ -16,7 +16,6 @@
   <img align="center" alt="Marcilio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcilio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcilio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Marcilio-Anime" src="https://cdn.discordapp.com/attachments/790384131510763540/884852731829977128/Webp.net-gifmaker_1.gif">
 </div>
   
 ##
