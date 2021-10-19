@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Marcílio Cabral! 👋
-Atualmente sou estudante em análise e desenvolvimento de sistemas;
-Sou apaixonado em trazer soluções;
-Amante da música e da arte.
+- Atualmente sou estudante em análise e desenvolvimento de sistemas.
+- Sou apaixonado em trazer soluções.
+- Amante da música e da arte.
 
 ##
 
