@@ -20,7 +20,6 @@
   <img align="center" alt="Marcilio-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcilio-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Marcilio-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="right" alt="Marc-GIF" src="https://cdn.discordapp.com/attachments/821182201890734100/890367552247726130/Webp.net-gifmaker.gif">
 </div>
   
 ##
