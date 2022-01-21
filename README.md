@@ -3,7 +3,7 @@
 
 💻 Apaixonado em trazer soluções, analisar e melhorar sempre os processos! Por este motivo, estou em constante aprendizado.
 
-📫Informações de contato:
+📫Informações de contato
 Linkedin: https://www.linkedin.com/in/marcilio-cabral-a39a3b134
 E-mail: marcilioccsilva@fac.pe.senac.br
 
