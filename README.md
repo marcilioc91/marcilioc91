@@ -1,7 +1,11 @@
 ### Olá! Eu sou o Marcílio Cabral! 👋
-- Atualmente sou estudante em análise e desenvolvimento de sistemas.
-- Sou apaixonado em trazer soluções, analisar e melhorar sempre os processos!
-- Amante da música e da arte.
+📚 Sou graduado em Análise e Desenvolvimento de Sistemas pela faculdade Senac Pernambuco. A princípio, tenho interesse em atuar com desenvolvimento com Android nativo, mas analiso outras oportunidades de trabalho.
+
+💻 Apaixonado em trazer soluções, analisar e melhorar sempre os processos! Por este motivo, estou em constante aprendizado.
+
+📫Informações de contato:
+Linkedin: https://www.linkedin.com/in/marcilio-cabral-a39a3b134
+E-mail: marcilioccsilva@fac.pe.senac.br
 
 ##
 
