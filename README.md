@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Marcílio Cabral! 👋
-📚 Sou graduado em Análise e Desenvolvimento de Sistemas pela faculdade Senac Pernambuco. A princípio, tenho interesse em atuar com desenvolvimento com Android nativo, mas analiso outras oportunidades de trabalho.
+📚 Sou desenvolvedor de software e graduado em Análise e Desenvolvimento de Sistemas pela faculdade Senac Pernambuco.
 
 💻 Apaixonado em trazer soluções, analisar e melhorar sempre os processos! Por este motivo, estou em constante aprendizado.
 
