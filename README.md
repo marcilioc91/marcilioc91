@@ -1,7 +1,7 @@
 ## Welcome! 👋
-  🎓 Graduated in Systems Analysis and Development (Senac Pernambuco College).
+  🎓 Graduated in Systems Analysis and Development at Senac Pernambuco.
   
-  📚 Currently pursuing a postgraduate degree in Java Engineering with applied AI.
+  📚 Studying postgraduate in Java Engineering with applied AI.
 
 ##
 
