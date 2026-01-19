@@ -1,9 +1,6 @@
 ## Seja bem vindo ao meu repositório! 👋
-📚 Sou desenvolvedor de software e graduado em Análise e Desenvolvimento de Sistemas pela faculdade Senac Pernambuco.
-
-💻 Apaixonado em trazer soluções, analisar e melhorar sempre os processos! Por este motivo, estou em constante aprendizado.
-
-📚 Ultimamente venho estudando inglês, POO C#, banco de dados e desenvolvimento mobile para Android.
+🎓 Graduado em Análise e Desenvolvimento de Sistemas (Faculdade Senac Pernambuco).
+📚 Cursando pós-graduação em Engenharia de Java com IA aplicada.
 
 ##
 
