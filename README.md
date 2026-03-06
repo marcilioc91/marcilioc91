@@ -1,27 +1,26 @@
-## Welcome! 👋
-  🎓 Graduated in Systems Analysis and Development at Senac Pernambuco.
-  
-  📚 Studying postgraduate in Java Engineering with applied AI.
+# 👨🏻‍💻 Marcilio Cabral
 
-##
+**`Desenvolvedor Fullstack`**
 
- <div>
-  <a href="https://github.com/marcilioc91">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcilioc91&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcilioc91&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+> Me chamo Marcílio Cabral, trabalho com tecnologia há mais de 4 anos e sou natural de Recife. Sou graduado em Análise e Desenvolvimento de Sistemas no Senac-PE e estudante de pós-graduação em Engenharia de Java com IA aplicada na UNIPDS (Anhanguera).
 
-#### Technologies:
+---
+#### Tecnologias:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Marcilio-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Marcilio-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Marcilio-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Marcilio-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Marcilio-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Marcilio-spring" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+  <img align="center" alt="Marcilio-Csharp" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Marcilio-mssql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" alt="Marcilio-Firebird" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-plain.svg"/>
+  <img align="center" alt="Marcilio-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Marcilio-react" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Marcilio-Delphi" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg"/>
+  <img align="center" alt="Marcilio-Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">          
 </div>
 
 ##
-  #### Contact:
+  #### Contato:
   <div>
     <a href="https://www.linkedin.com/in/marcilio-cabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   
+
    Email: ```marcilioccsilva@fac.pe.senac.br```
