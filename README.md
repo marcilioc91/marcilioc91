@@ -14,6 +14,7 @@
   <img align="center" alt="Marcilio-mssql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img align="center" alt="Marcilio-Firebird" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-plain.svg"/>
   <img align="center" alt="Marcilio-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Marcilio-TS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Marcilio-react" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Marcilio-Delphi" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg"/>
   <img align="center" alt="Marcilio-Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">          
