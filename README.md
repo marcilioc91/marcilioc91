@@ -6,19 +6,9 @@
 
 ---
 #### Tecnologias:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcilio-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Marcilio-spring" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
-  <img align="center" alt="Marcilio-Angular" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img align="center" alt="Marcilio-Csharp" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Marcilio-mssql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  <img align="center" alt="Marcilio-Firebird" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-plain.svg"/>
-  <img align="center" alt="Marcilio-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marcilio-TS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="Marcilio-react" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="Marcilio-Delphi" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg"/>
-  <img align="center" alt="Marcilio-Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">          
-</div>
+<p align="center">
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"> <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebird/firebird-plain.svg"> <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"> <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg"> <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</p>
 
 ##
   #### Contato:
